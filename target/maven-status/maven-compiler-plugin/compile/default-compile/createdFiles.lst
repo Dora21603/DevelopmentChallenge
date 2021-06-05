@@ -1,0 +1,7 @@
+com\oracle\devops\dropwizard\DevelopmentChallengeConfig.class
+com\oracle\devops\dropwizard\data\HelloWorld.class
+com\oracle\devops\dropwizard\DevelopmentChallengeApp.class
+com\oracle\devops\dropwizard\data\FibonacciResponse.class
+com\oracle\devops\dropwizard\service\FibonacciService.class
+com\oracle\devops\dropwizard\service\HelloWorldService.class
+com\oracle\devops\dropwizard\healthcheck\DevelopmentChallengeHealthCheck.class
